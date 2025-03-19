@@ -25,3 +25,4 @@ pip install datetime
 </ul>
 <h2>4. Kontakt</h2>
 <p><strong>Autor:</strong> Nassim Lahoudi</p>
+<p><strong>E-Mail:</strong> nassim.lahoudi@hotmail.com</p>
